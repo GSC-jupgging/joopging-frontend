@@ -2,7 +2,7 @@
 - This repository is for the frontend project of GSC-jupgging.
 - Please download the backend project of GSC-jupgging.
 - The original repository's owner of this frontend project is a member of this Solution Challenge team.
-  - check here: https://github.com/hwarange/gdsc
+  - check here(origial repository): https://github.com/hwarange/gdsc
 
 ## Way to run project
 - To run this frontend project, users have to check IP address.
