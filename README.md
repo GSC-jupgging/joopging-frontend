@@ -1,16 +1,11 @@
-# gdsc
+# joopging-frontend
+- This repository is for the frontend project of GSC-jupgging.
+- Please download the backend project of GSC-jupgging.
+- The original repository's owner of this frontend project is a member of this Solution Challenge team.
+  - check here: https://github.com/hwarange/gdsc
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Way to run project
+- To run this frontend project, users have to check IP address.
+  - Please replace "[MY_IP]" to user's IP address.
+- Download the frontend project of GSC-jupgging.
+- Run jupgging-server and joopging-frontend code.
